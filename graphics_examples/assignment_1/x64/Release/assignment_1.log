@@ -1,0 +1,14 @@
+﻿  cube_tex.cpp
+  cylinder.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\wrapper_glfw.h(11,10): fatal error C1083: Cannot open include file: 'glload/gl_4_0.h': No such file or directory
+  sphere_tex.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\wrapper_glfw.h(11,10): fatal error C1083: Cannot open include file: 'glload/gl_4_0.h': No such file or directory
+  tetrahedron.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\wrapper_glfw.h(11,10): fatal error C1083: Cannot open include file: 'glload/gl_4_0.h': No such file or directory
+  triangular_prism.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\wrapper_glfw.h(11,10): fatal error C1083: Cannot open include file: 'glload/gl_4_0.h': No such file or directory
+  wrapper_glfw.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\wrapper_glfw.h(11,10): fatal error C1083: Cannot open include file: 'glload/gl_4_0.h': No such file or directory
+  main.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\wrapper_glfw.h(11,10): fatal error C1083: Cannot open include file: 'glload/gl_4_0.h': No such file or directory
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\assignment_1\main.cpp(23,10): fatal error C1083: Cannot open include file: 'wrapper_glfw.h': No such file or directory

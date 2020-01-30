@@ -1,0 +1,49 @@
+﻿  cube_tex.cpp
+  points2.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\points2.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  sphere_tex.cpp
+  terrain_object.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\points2.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(357,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(383,14): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(383,14): warning C4244:         with
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(383,14): warning C4244:         [
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(383,14): warning C4244:             genType=double
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(383,14): warning C4244:         ]
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(384,15): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(384,15): warning C4244:         with
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(384,15): warning C4244:         [
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(384,15): warning C4244:             genType=double
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(384,15): warning C4244:         ]
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(385,15): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(385,15): warning C4244:         with
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(385,15): warning C4244:         [
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(385,15): warning C4244:             genType=double
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(385,15): warning C4244:         ]
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(414,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(415,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  tiny_loader_texture.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\terrain_object.cpp(423,23): warning C4018: '<': signed/unsigned mismatch
+  wrapper_glfw.cpp
+  main.cpp
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\common\tiny_loader_texture.cpp(96,25): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\assignment_2\main.cpp(298,28): warning C4305: '=': truncation from 'double' to 'GLfloat'
+glfw3D.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(context.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(init.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(input.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(monitor.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(vulkan.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(window.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_init.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_joystick.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_monitor.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_time.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_tls.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_window.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(wgl_context.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(egl_context.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glloadD.lib(gl_load.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glloadD.pdb'; linking object as if no debug info
+glloadD.lib(gl_load_cpp.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load_cpp.obj)' or at 'C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\glloadD.pdb'; linking object as if no debug info
+  assignment_2.vcxproj -> C:\Users\johnp\Desktop\Graphics\topic_1_first_programs\graphics_examples\Debug\assignment_2.exe
